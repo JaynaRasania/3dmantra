@@ -2,6 +2,7 @@
 	$page="arts";
 	$title="Arts";
 	require_once('header.php');
+	// This is the test data 
 	
 ?>	
 	<div class="container-fluid">
